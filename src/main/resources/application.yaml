@@ -12,6 +12,6 @@ spring:
     password: 20192019
 mybatis:
   mapper-locations: classpath:mapper/*.xml
-  type-aliases-package: com.yixin.cloud.pojo   # 所有实体类别名类所在包
+  type-aliases-package: com.tangba.system.damain   # 所有实体类别名类所在包
 
 
